@@ -1,2 +1,2 @@
-# feedreader-web
-RSS feed reader website
+# Feedreader-web
+## RSS feed reader website
